@@ -32,6 +32,7 @@ int main () {
     }
 
     cout << fixed << setprecision(2);       
+    cout << "Total Discount : " << "Rp. " << total_discount << endl;
     cout << "Total Harga Belanja Sebelum Discount : " << "Rp. " << price_before_discount << endl;
     cout << "Total Harga Belanja Setelah Discount : " << "Rp. " << price_after_discount << endl;
 
