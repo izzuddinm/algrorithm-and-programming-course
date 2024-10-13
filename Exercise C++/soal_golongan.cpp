@@ -31,7 +31,7 @@ int main() {
         gaji_pokok = 3500000;
         total_tunjangan = gaji_pokok * 0.06;
     } else if (golongan == 4) {
-        jabatan = "Admin Staff";
+        jabatan = "Asisten Staff";
         tunjangan_label = "5%";
         gaji_pokok = 3000000;
         total_tunjangan = gaji_pokok * 0.05;
